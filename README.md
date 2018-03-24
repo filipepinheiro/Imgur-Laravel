@@ -19,7 +19,7 @@ foreach ($images as $image)
 ## Getting started
 First you will have to install the package using composer, this can be done by adding the following to your `require` block,
 ```
-"redeman/imgur-laravel": "~1.0",
+"filipepinheiro/imgur-laravel": "~1.0",
 ```
 Next you can register the service provider by adding,
 ```php
